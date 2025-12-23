@@ -1,2 +1,2 @@
-# Letternoel
+# LetterNoel
 Java + SQL Server
